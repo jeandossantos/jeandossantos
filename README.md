@@ -1,4 +1,5 @@
 ## Jean dos Santos
+Hi, I'm Jean, For some time, I've been studying to become a web developer. Actually, I'm focusing on technologies like Node.js, Typescript, Nest.js, Jest, React.js, and some others. I'm also learning English, and although I'm not fluent yet, I can read some articles and documentation to some extent. Below, you'll find some of the projects that I've made. Feel free to explore them!
 <br/>
 <div align="center">
   <a href="https://github.com/jeandossantos/jeandossantos">

@@ -1,7 +1,7 @@
 ## Olá, Me chamo Jean 🤓
 Há algum tempo venho estudando para me tornar um desenvolvedor web 💻️. Atualmente, estou focando em tecnologias como Node.js, Typescript, Nest.js, Jest, React.js e algumas outras. Também estou aprendendo inglês e, embora ainda não seja fluente, posso ler artigos e documentações até certo ponto. Abaixo 👇️, você vai encontrar alguns dos projetos que criei. Fique à vontade para dá uma olhada 👀!
 ##
-Hi, I'm Jean, for some time, I've been studying to become a web developer 💻️. Currently, I'm focusing on technologies like Node.js, Typescript, Nest.js, Jest, React.js, and some others. I'm also learning English, and although I'm not fluent yet, I can read some articles and documentation to some extent. Below 👇️, you'll find some of the projects that I've created. Feel free to explore them 👀!
+Hi, I'm Jean, for some time, I've been studying to become a web developer 💻️. Currently, I'm focusing on technologies like Node.js, Typescript, Nest.js, Jest, React.js, and some others (like Python). I'm also learning English, and although I'm not fluent yet, I can read some articles and documentation to some extent. Below 👇️, you'll find some of the projects that I've created. Feel free to explore them 👀!
 <br/>
 <br/>
 <div align="center">
